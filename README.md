@@ -9,7 +9,7 @@ This opamp configuration uses two op amps in a programmable gain configuration t
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-differential-amplifier/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
